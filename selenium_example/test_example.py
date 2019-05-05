@@ -38,8 +38,8 @@ class TestAmazonExample(WebDriverBase):
     def giris(self):
         kadi = self.get_element(self.KADI_LOCATOR)
         password = self.get_element(self.PASS_LOCATOR)
-        kadi.send_keys("hsynmrtnys@gmail.com")
-        password.send_keys("12345678a")
+        kadi.send_keys("email")
+        password.send_keys("password")
         self.get_element(self.GIRIS_BUTTON_LOCATOR).click()
 
     def arama(self,product_name):

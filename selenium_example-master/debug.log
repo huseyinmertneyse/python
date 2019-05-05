@@ -1,0 +1,19 @@
+[0504/152514.662:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.665:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.665:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/152514.666:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0504/152514.746:ERROR:exception_snapshot_win.cc(98)] thread ID 7384 not found in process
+[0504/191432.084:ERROR:process_reader_win.cc(151)] SuspendThread: Eriþim engellendi. (0x5)
+[0504/191432.101:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0504/191432.118:ERROR:exception_snapshot_win.cc(98)] thread ID 8060 not found in process
+[0504/193717.696:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0504/193717.697:ERROR:exception_snapshot_win.cc(98)] thread ID 8284 not found in process
+[0505/114831.566:ERROR:process_reader_win.cc(123)] NtOpenThread: {Eriþim Yok} Bir iþlem bir nesneye eriþmek istedi, ancak istediði eriþimin haklarý kendisine verilmiþ deðil. (0xc0000022)
+[0505/114831.695:ERROR:exception_snapshot_win.cc(98)] thread ID 8736 not found in process
